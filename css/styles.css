@@ -672,7 +672,8 @@ progress {
   --bs-gutter-y: 0;
   display: flex;
   flex-wrap: wrap;
-  margin:20%
+  margin:20%;
+  padding:20%;
 }
 .row > * {
   flex-shrink: 0;
