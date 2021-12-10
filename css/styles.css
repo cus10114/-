@@ -672,7 +672,7 @@ progress {
   --bs-gutter-y: 0;
   display: flex;
   flex-wrap: wrap;
-  padding: 150px;
+  padding: 120px;
 }
 .row > * {
   flex-shrink: 0;
