@@ -673,7 +673,6 @@ progress {
   display: flex;
   flex-wrap: wrap;
   margin:20%;
-  padding:100px;
 }
 .row > * {
   flex-shrink: 0;
