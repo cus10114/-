@@ -7674,8 +7674,7 @@ textarea.form-control-lg {
 }
 
 .text-center {
-  width: 100px;
-  height:100px;
+  position: absolute;
   text-align: center !important;
 }
 
