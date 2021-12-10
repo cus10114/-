@@ -672,6 +672,7 @@ progress {
   --bs-gutter-y: 0;
   display: flex;
   flex-wrap: wrap;
+  padding: 150px;
   margin:20%;
 }
 .row > * {
