@@ -11,10 +11,6 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
- .GG{
-   width:fit-content;
-   height:fit-content;
- }
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -7678,6 +7674,8 @@ textarea.form-control-lg {
 }
 
 .text-center {
+  width: 100px;
+  height:100px;
   text-align: center !important;
 }
 
