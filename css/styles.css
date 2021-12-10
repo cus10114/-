@@ -673,7 +673,7 @@ progress {
   display: flex;
   flex-wrap: wrap;
   margin-top: calc(-1 * var(--bs-gutter-y));
-  margin-right:20%;
+  margin-right:100px;
   margin-left: calc(-0.5 * var(--bs-gutter-x));
 }
 .row > * {
@@ -7674,7 +7674,7 @@ textarea.form-control-lg {
 }
 
 .text-center {
-  position: absolute;
+
   text-align: center !important;
 }
 
